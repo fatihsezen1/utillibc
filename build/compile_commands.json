@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/projects/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\utillibc.dir\\utillibc.c.obj -c D:\\projects\\utillibc.c",
+  "file": "D:\\projects\\utillibc.c",
+  "output": "CMakeFiles\\utillibc.dir\\utillibc.c.obj"
+}
+]

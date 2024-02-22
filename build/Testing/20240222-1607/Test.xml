@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20240222-1607-Experimental"
+	Name="DESKTOP-FRNNDT1"
+	Generator="ctest-3.28.1"
+	CompilerName="C:/msys64/mingw64/bin/g++.exe"
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-FRNNDT1"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="10955"
+	TotalPhysicalMemory="8080"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Feb 22 19:08 Turkey Standard Time</StartDateTime>
+		<StartTestTime>1708618125</StartTestTime>
+		<TestList/>
+		<EndDateTime>Feb 22 19:08 Turkey Standard Time</EndDateTime>
+		<EndTestTime>1708618125</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
